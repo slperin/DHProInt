@@ -1,0 +1,26 @@
+[
+  {
+    "titulo": "tituloA",
+    "estado": "terminada"
+  },
+  {
+    "titulo": "tituloB",
+    "estado":"en progreso"
+  },
+  {
+    "titulo": "tituloC",
+    "estado":"pendiente"
+  },
+  {
+    "titulo": "tituloA",
+    "estado": "terminada"
+  },
+  {
+    "titulo": "tituloB",
+    "estado":"en progreso"
+  },
+  {
+    "titulo": "tituloC",
+    "estado":"pendiente"
+  }
+]
